@@ -1,3 +1,10 @@
+/* Global styles */
+.col-md-5{
+    padding-top: 100px!important;
+}
+
+
+
 .maketext{
 	color:#6c5ce7;
 }
@@ -23,9 +30,11 @@
  
  .heading{
  	color: #FA8072;
+    
  }
  .grid{
  	color: #669900;
+     
  }
  .smallimage{/* All children in the footer */
  	width: 140px;
@@ -75,7 +84,8 @@ a.nav-link{
     color: black;
 }
  
-img{
+.makecontact{
+padding-bottom: 100px;    
     
     
 }
@@ -89,4 +99,23 @@ img{
 }
 .makepaper{
     margin-top: 50px;
+}
+.makeblack{
+    color: black;    
+}
+.makeflairfont{
+    font-family: 'Pacifico', monospace;
+}
+.makebreak{
+	width: 20%!important;
+	background-color:  #FA8072;
+	height: 2px;
+}
+.makehr{
+	background-color: #000;
+	
+}
+.eventheading{
+	font-size: 45px;
+	color: #3498db;
 }
